@@ -5,14 +5,14 @@ permalink: /about/
 main_nav: true
 ---
 
-![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
+![alt text]({{ site.baseurl }}/assets/The world studios.png "Profile Picture"){:.profile}
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+Welcome to the Biostatistics podcast, a show dedicated to exploring the fascinating field of biostatistics! Biostatistics is the application of statistical methods in biology, medicine, and public health to better understand complex data and make informed decisions about some of the most significant challenges facing humanity.
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
+I'm [Jocelyn Chen]((https://www.linkedin.com/in/ziming-jocelyn-chen-428053124)), your host, and a recent graduate of the biostatistics MSc program at the University of Toronto, currently working as a biostatistical analyst in a hospital for sick children. While I'm still a biostatistician in training, I'm excited to share my journey and learn alongside you as we explore the vast world of biostatistics.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+In each episode, we'll be speaking with experts and professionals from a variety of fields, including biostatistician, bioinformaticians, clinicians, psychiatrists, health data scientists, epidemiologists, etc. By bringing together perspectives from different backgrounds, we hope to provide you with the most comprehensive topics arising from biostatistics and insights on them.
 
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
+If you have any questions, feedback, or comments, please reach out to us via  [email](biostatisticspodcast@gmail.com) or on [Twitter](https://twitter.com/choochoojczm). We're always open to suggestions for new guests or topics that you would like us to cover.
+
+We are thrilled to have you listen in and appreciate your time. Stay tuned for some exciting discussions in the upcoming episodes. Thank you for being a part of the conversation.
