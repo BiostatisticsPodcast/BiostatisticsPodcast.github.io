@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Posts"
-permalink: /posts/
+title: "Episodes"
+permalink: /episodes/
 main_nav: true
 ---
 
