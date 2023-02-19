@@ -3,7 +3,7 @@ layout: post
 title:  "Acknowledgements"
 date:   2023-02-16
 author: Jocelyn Chen
-categories: Old
+categories: Previous
 ---
 # <span style="color:skyblue">This page contains all the online sources that I have used to create this website and the podcast</span>
 Intro Music: [Chris - C418](https://c418.org/albums/minecraft-volume-alpha/)
