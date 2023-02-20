@@ -15,6 +15,6 @@ I'm [Jocelyn Chen]((https://www.linkedin.com/in/ziming-jocelyn-chen-428053124)),
 
 In each episode, we'll be speaking with experts and professionals from a variety of fields, including biostatistician, bioinformaticians, clinicians, psychiatrists, health data scientists, epidemiologists, etc. By bringing together perspectives from different backgrounds, we hope to provide you with the most comprehensive topics arising from biostatistics and insights on them.
 
-If you have any questions, feedback, or comments, please reach out to us via  [email](biostatisticspodcast@gmail.com) or on [Twitter](https://twitter.com/choochoojczm). We're always open to suggestions for new guests or topics that you would like us to cover.
+If you have any questions, feedback, or comments, please reach out to us via  [email](mailto:biostatisticspodcast@gmail.com) or on [Twitter](https://twitter.com/choochoojczm). We're always open to suggestions for new guests or topics that you would like us to cover.
 
 We are thrilled to have you listen in and appreciate your time. Stay tuned for some exciting discussions in the upcoming episodes. Thank you for being a part of the conversation.
