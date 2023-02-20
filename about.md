@@ -7,7 +7,7 @@ main_nav: true
 
 ![alt text]({{ site.baseurl }}/assets/The world studios.png "Profile Picture"){:.profile}
 
-# <span style="color:skyblue">You can find us on</span> [Apple Podcast](https://podcasts.apple.com/us/podcast/biostatistics-podcast/id1668038660)<span style="color:skyblue">, </span>[Google Podcast]()<span style="color:skyblue">, </span>[Spotify](https://open.spotify.com/show/43mEKUBMM5uwYrAoYMZs5J?si=c36ec73a2d8f4026)<span style="color:skyblue">, and</span> [Firstory](https://open.firstory.me/user/cldconwj80j2g01tj60hj3s3l)
+# <span style="color:skyblue">You can find us on</span> [Apple Podcast](https://podcasts.apple.com/us/podcast/biostatistics-podcast/id1668038660)<span style="color:skyblue">, </span>[Google Podcast]()<span style="color:skyblue">, </span>[Amazon Music](https://music.amazon.com/podcasts/23c3aa1a-5a06-4cb3-8799-c0d3c1377f03/biostatistics-podcast)<span style="color:skyblue">, </span>[Spotify](https://open.spotify.com/show/43mEKUBMM5uwYrAoYMZs5J?si=c36ec73a2d8f4026)<span style="color:skyblue">, and</span> [Firstory](https://open.firstory.me/user/cldconwj80j2g01tj60hj3s3l)
 
 Welcome to the Biostatistics podcast, a show dedicated to exploring the fascinating field of biostatistics! Biostatistics is the application of statistical methods in biology, medicine, and public health to better understand complex data and make informed decisions about some of the most significant challenges facing humanity.
 
