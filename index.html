@@ -1,88 +1,19 @@
 ---
-layout: default
+layout: page
 pagination: 
   enabled: true
 ---
-<div class="home">
 
-<div class="site-header-container {% if site.cover %}has-cover{% endif %}" {% if site.cover %}style="background-image: url({{ site.cover | prepend: site.baseurl }});"{% endif %}>
-  <div class="scrim {% if site.cover %}has-cover{% endif %}">
-    <header class="site-header">
-      <h1 class="title">{{ site.title }}</h1>
-      {% if site.subtitle %}<p class="subtitle">{{ site.subtitle }}</p>{% endif %}
-    </header>
-  </div>
-</div>
-
-<div class="wrapper">
-<ul class="post-list">
-  {% for post in paginator.posts %}
-  <li>
-    <h2>
-      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-    </h2>
-    <section class="post-excerpt" itemprop="description">
-      <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
-    </section>
-    <section class="post-meta">
-      <div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div>
-      <div class="post-categories">
-      {% if post.categories.size > 0 %}in {% for cat in post.categories %}
-        {% if site.jekyll-archives %}
-        <a href="{{ site.baseurl }}/category/{{ cat }}">{{ cat | capitalize }}</a>{% if forloop.last == false %}, {% endif %}
-        {% else %}
-        <a href="{{ site.baseurl }}/episodes/#{{ cat }}">{{ cat | capitalize }}</a>{% if forloop.last == false %}, {% endif %}
-        {% endif %}
-      {% endfor %}{% endif %}
-      </div>
-    </section>
-  </li>
-  {% if forloop.last == false %}
-  <hr>
-  {% endif %}
-  {% endfor %}
-</ul>
-
-<nav class="pagination" role="navigation">
-	<p>
-    {% if paginator.previous_page %}
-			{% if paginator.page == 2 %}
-			<a class="newer-posts" href="{{ site.baseurl }}{{ paginator.previous_page_path }}">
-        <span class="fa-stack fa-lg">
-          <i class="fa fa-square fa-stack-2x"></i>
-          <i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
-        </span>
-      </a>
-			{% else %}
-			<a class="newer-posts" href="{{ site.baseurl }}{{ paginator.next_page_path }}">
-				<span class="fa-stack fa-lg">
-					<i class="fa fa-square fa-stack-2x"></i>
-					<i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
-				</span>
-			</a>
-			{% endif %}
-		{% else %}
-		<span class="fa-stack fa-lg">
-      <i class="fa fa-square fa-stack-2x"></i>
-      <i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
-    </span>
-		{% endif %}
-		<span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-		{% if paginator.next_page %}
-		<a class="newer-posts" href="{{ site.baseurl }}{{ paginator.next_page_path }}">
-      <span class="fa-stack fa-lg">
-        <i class="fa fa-square fa-stack-2x"></i>
-        <i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>
-      </span>
-    </a>
-		{% else %}
-		<span class="fa-stack fa-lg">
-      <i class="fa fa-square fa-stack-2x"></i>
-      <i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>
-    </span>
-		{% endif %}
-	</p>
-</nav>
+<img src="{{ site.baseurl }}/assets/The world studios.png" alt="Biostatistics Podcast" style="width:300px;height:300px;">
 
 </div>
+
+
+<div id="you-can-find-us-on-apple-podcast-google-podcast-amazon-music-spotify-and-firstory" class="section level1">
+<h1><span style="color:skyblue">You can find us on</span> <a href="https://podcasts.apple.com/us/podcast/biostatistics-podcast/id1668038660">Apple Podcast</a><span style="color:skyblue">, </span><a href>Google Podcast</a><span style="color:skyblue">, </span><a href="https://music.amazon.com/podcasts/23c3aa1a-5a06-4cb3-8799-c0d3c1377f03/biostatistics-podcast">Amazon Music</a><span style="color:skyblue">, </span><a href="https://open.spotify.com/show/43mEKUBMM5uwYrAoYMZs5J?si=c36ec73a2d8f4026">Spotify</a><span style="color:skyblue">, and</span> <a href="https://open.firstory.me/user/cldconwj80j2g01tj60hj3s3l">Firstory</a></h1>
+<p>Welcome to the Biostatistics podcast, a show dedicated to exploring the fascinating field of biostatistics! Biostatistics is the application of statistical methods in biology, medicine, and public health to better understand complex data and make informed decisions about some of the most significant challenges facing humanity.</p>
+<p>I’m <a href="https://www.linkedin.com/in/ziming-jocelyn-chen-428053124">Jocelyn Chen</a>, your host, and a recent graduate of the biostatistics MSc program at the University of Toronto, currently working as a biostatistical analyst in a hospital for sick children. While I’m still a biostatistician in training, I’m excited to share my journey and learn alongside you as we explore the vast world of biostatistics.</p>
+<p>In each episode, we’ll be speaking with experts and professionals from a variety of fields, including biostatistician, bioinformaticians, clinicians, psychiatrists, health data scientists, epidemiologists, etc. By bringing together perspectives from different backgrounds, we hope to provide you with the most comprehensive topics arising from biostatistics and insights on them.</p>
+<p>If you have any questions, feedback, or comments, please reach out to us via <a href="mailto:biostatisticspodcast@gmail.com">email</a> or on <a href="https://twitter.com/choochoojczm">Twitter</a>. We’re always open to suggestions for new guests or topics that you would like us to cover.</p>
+<p>We are thrilled to have you listen in and appreciate your time. Stay tuned for some exciting discussions in the upcoming episodes. Thank you for being a part of the conversation.</p>
 </div>
