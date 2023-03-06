@@ -10,7 +10,7 @@ Intro Music: [Chris - C418](https://c418.org/albums/minecraft-volume-alpha/)
 
 Outro Music: [Wet Hands - C418](https://c418.org/albums/minecraft-volume-alpha/)
 
-Website Cover: [BioPharma Services](https://www.biopharmaservices.com/blog/biostatistics-in-public-health/)
+Twitter Cover: [BioPharma Services](https://www.biopharmaservices.com/blog/biostatistics-in-public-health/)
 
 Podcast Cover: [Blue Tosca Modern Game Logo (Canva)](https://www.canva.com/templates/EAFH8RL8yxg-blue-tosca-modern-game-logo/)
 
